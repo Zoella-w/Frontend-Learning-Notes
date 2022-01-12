@@ -1,7 +1,7 @@
 # Front-end-Learning-Notes
 These are Zoella's front-end learning notes.
 
-**four folders: codes, daily learning summary and learning notes**
+**three folders: codes, daily learning summary and learning notes**
 ### 1. codes: 
 Codes produced during the learning process
 
