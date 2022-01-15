@@ -20,7 +20,8 @@ Write down the knowledge points to review them someday
 
 ### Learning progress
 
-| Number | Date       | Achievement       |
-| ------ | ---------- | ----------------- |
-| 001    | 2022/01/13 | JavaScript 第一步 |
+| Number | Date       | Achievement            |
+| ------ | ---------- | ---------------------- |
+| 001    | 2022/01/13 | JavaScript 第一步      |
+| 002    | 2022/01/14 | 创建 JavaScript 代码块 |
 
