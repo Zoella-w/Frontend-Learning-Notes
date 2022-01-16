@@ -25,4 +25,5 @@ Write down the knowledge points to review them someday
 | 001    | 2022/01/13 | JavaScript 第一步       |
 | 002    | 2022/01/14 | 创建 JavaScript 代码块  |
 | 003    | 2022/01/15 | Array & Object & 原型链 |
+| 004    | 2022/01/16 | 《ES6 标准入门》0-3 章  |
 
