@@ -2,17 +2,17 @@
 
 These are Zoella's front-end learning notes.
 
-**three folders: codes, daily learning summary and learning notes**
+**three folders: Codes, Daily Summary and Learning Notes**
 
-### 1. codes: 
+### 1. Codes: 
 
 Codes produced during the learning process
 
-### 2. daily learning summary:
+### 2. Daily Summary:
 
 Summarize what I learn every day
 
-### 3. learning notes:
+### 3. Learning Notes:
 
 Write down the knowledge points to review them someday
 
