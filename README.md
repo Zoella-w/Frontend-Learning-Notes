@@ -1,4 +1,4 @@
-# Front-end-Learning-Notes
+# Frontend-Learning-Notes
 
 These are Zoella's front-end learning notes.
 
